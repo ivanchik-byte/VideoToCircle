@@ -1,0 +1,10 @@
+.env
+.venv/
+data/
+temp/
+__pycache__/
+*.py[cod]
+*.db
+.git/
+.gitignore
+tests/
